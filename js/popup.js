@@ -93,7 +93,7 @@ function Main() {
     link_donate: 'https://your-donation-page.com',
     link_github: 'https://github.com/onenok/BringShort-BrainRot',
     link_issues: 'https://github.com/onenok/BringShort-BrainRot/issues',
-    link_discord: 'https://discord.gg/sT5P5Ek9e9',
+    link_discord: 'https://discord.gg/yEq5AA5qCW',
     link_faq: 'https://github.com/onenok/BringShort-BrainRot/discussions/categories/q-a',
     link_changelog: 'https://github.com/onenok/BringShort-BrainRot/commits/main/',
   };
