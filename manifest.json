@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Bring Short Brainrot",
+  "name": "BringShort Brainrot",
   "version": "1.0",
   "description": "BYE BYE Shorts",
   "permissions": ["tabs", "webNavigation", "storage", "contextMenus"],
@@ -19,7 +19,7 @@
       "48": "img/48Bye_Short.png",
       "128": "img/128Bye_Short.png"
     },
-    "default_title": "Bring Short Brainrot",
+    "default_title": "BringShort Brainrot",
     "default_popup": "html/popup.html"
   }
 }

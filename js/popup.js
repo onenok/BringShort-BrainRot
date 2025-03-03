@@ -37,7 +37,7 @@ function showHTML() {
     <!-- Extension Logo -->
     <img src="../img/64Bye_Short.png" alt="Bring Short Brainrot Logo" class="logo">
     <!-- Extension Name -->
-    <h1 style="margin-bottom: 0.75rem">Bring Short Brainrot</h1>
+    <h1 style="margin-bottom: 0.75rem">BringShort Brainrot</h1>
     <!-- Tagline or Description -->
     <p>BYE BYE Shorts</p>
 
