@@ -31,8 +31,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const links = {
     link_website: 'https://your-extension-website.com',
     link_donate: 'https://your-donation-page.com',
-    link_github: 'https://github.com/your-repo',
+    link_github: 'https://github.com/onenok/BringShort-BrainRot',
     link_help: 'https://your-extension-website.com/help',
+    link_discord: 'https://',
     link_faq: 'https://your-extension-website.com/faq',
     link_changelog: 'https://your-extension-website.com/changelog',
   };
