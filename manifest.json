@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Bring Short Brainrot",
+  "version": "1.0",
+  "description": "BYE BYE Shorts",
+  "permissions": ["tabs", "webNavigation", "storage", "contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "popup.html",
+  "icons": {
+    "16": "16Bye_Short.png",
+    "48": "48Bye_Short.png",
+    "128": "128Bye_Short.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "16Bye_Short.png",
+      "48": "48Bye_Short.png",
+      "128": "128Bye_Short.png"
+    },
+    "default_title": "Bring Short Brainrot",
+    "default_popup": "popup.html"
+  }
+}
