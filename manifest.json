@@ -5,21 +5,21 @@
   "description": "BYE BYE Shorts",
   "permissions": ["tabs", "webNavigation", "storage", "contextMenus"],
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "js/background.js"
   },
-  "options_page": "popup.html",
+  "options_page": "html/popup.html",
   "icons": {
-    "16": "16Bye_Short.png",
-    "48": "48Bye_Short.png",
-    "128": "128Bye_Short.png"
+    "16": "img/16Bye_Short.png",
+    "48": "img/48Bye_Short.png",
+    "128": "img/128Bye_Short.png"
   },
   "action": {
     "default_icon": {
-      "16": "16Bye_Short.png",
-      "48": "48Bye_Short.png",
-      "128": "128Bye_Short.png"
+      "16": "img/16Bye_Short.png",
+      "48": "img/48Bye_Short.png",
+      "128": "img/128Bye_Short.png"
     },
     "default_title": "Bring Short Brainrot",
-    "default_popup": "popup.html"
+    "default_popup": "html/popup.html"
   }
 }
