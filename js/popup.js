@@ -90,7 +90,7 @@ function Main() {
   // Handle button clicks
   const links = {
     link_website: 'https://your-extension-website.com',
-    link_donate: 'https://your-donation-page.com',
+    link_donate: 'https://www.patreon.com/c/OneNok_HK',
     link_github: 'https://github.com/onenok/BringShort-BrainRot',
     link_issues: 'https://github.com/onenok/BringShort-BrainRot/issues',
     link_discord: 'https://discord.gg/yEq5AA5qCW',
